@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ft_irc**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C++, JS, Node.js**
 
 - 📫 How to reach me **pasquettegillian@sfr.fr**
 
