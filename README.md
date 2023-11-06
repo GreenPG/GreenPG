@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=greenpg&label=Profile%20views&color=0e75b6&style=flat" alt="greenpg" /> </p>
 
-- 🔭 I’m currently working on **ft_irc**
+- 🔭 I’m currently working on **ft_transcendence**
 
 - 🌱 I’m currently learning **C++, JS, Node.js**
 
