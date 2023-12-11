@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **ft_transcendence**
 
-- 🌱 I’m currently learning **C++, JS, Node.js**
+- 🌱 I’m currently learning **HTML, CSS, JS**
 
 - 📫 How to reach me **pasquettegillian@sfr.fr**
 
