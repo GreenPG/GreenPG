@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gillian Pasquettes</h1>
+<h1 align="center">Hi 👋, I'm Gillian Pasquette</h1>
 <h3 align="center">Dev student a 42 Angouleme School</h3>
 
 - 🔭 I’m currently working on **ft_transcendence**
