@@ -1,6 +1,8 @@
 # Hi 👋, I'm Gillian Pasquette
 
-I'm a recently reconverted developer that learn coding at Ecole 42. I'm currently searching for new projects and opportunities. I already have experiences in Pyton and C/C++ devlopment.
+I'm a recently reconverted developer that learn coding at Ecole 42. 
+I am currently enrolled in the iOS Application Designer and Developer program at Simplon, in partnership with Apple.
+So I'm looking for a work-study program starting in January 2027.
 - 📫 You can reach me via email at pasquettegillian@sfr.fr
 
 ## Skills
